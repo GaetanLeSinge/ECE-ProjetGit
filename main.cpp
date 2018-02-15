@@ -4,6 +4,9 @@ using namespace std;
 
 int main()
 {
-    cout << "Hellcskj,mrlkcjz,ùcm!" << endl;
+
+
+    cout << "Hello !" << endl;
+
     return 0;
 }
